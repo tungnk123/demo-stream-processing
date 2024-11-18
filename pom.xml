@@ -64,4 +64,10 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>iot-kafka-producer</module>
+		<module>iot-spark-processor</module>
+		<module>iot-springboot-dashboard</module>
+	</modules>iot-kafka-producer
+
 </project>
