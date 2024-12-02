@@ -10,8 +10,7 @@ import kafka.utils.VerifiableProperties;
 
 /**
  * Class to convert IoTData java object to JSON String
- * 
- * @author abaghel
+ *
  *
  */
 public class IoTDataEncoder implements Encoder<IoTData> {
